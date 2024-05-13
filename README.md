@@ -2,7 +2,7 @@
   
 Phase - I  
   
-1: Basic Prototype  
+1: Basic Prototype - [x]  
 2: Proof-of-Work  
 3: Persistence and CLI  
 4: Transactions 1  
