@@ -1,6 +1,6 @@
 # GoChain  
   
-#Phase - I  
+Phase - I  
   
 1: Basic Prototype  
 2: Proof-of-Work  
@@ -10,14 +10,14 @@
 6: Transactions 2  
 7: Network  
   
-#Phase - II  
+Phase - II  
   
 Programming Bitcoin Network P1  
 Programming Bitcoin Network P2  
 Programming Bitcoin Network P3  
 Programming Bitcoin Network P4  
   
-#Phase - III 
+Phase - III 
   
 Programming DeFi: Uniswap P1  
 Programming DeFi: Uniswap P2  
@@ -25,14 +25,14 @@ Programming DeFi: Uniswap P3
   
 Upgradeable proxy contract from scratch  
   
-#Phase - IV  
+Phase - IV  
   
 Programming DeFi: Uniswap V2 P1  
 Programming DeFi: Uniswap V2 P2  
 Programming DeFi: Uniswap V2 P3  
 Programming DeFi: Uniswap V2 P4  
   
-#Phase - V  
+Phase - V  
   
 Programming DeFi: Uniswap V3 P1: market makers, markets, and how decentralized exchanges (DEX) work in general  
 Programming DeFi: Uniswap V3 P2: make a simple DEX that’s capable of swapping tokens in one direction with predefined prices and amounts  
