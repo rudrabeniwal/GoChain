@@ -1,14 +1,14 @@
 # GoChain  
   
-Phase - I  
+- []Phase - I  
   
-- [x] 1: Basic Prototype  
-2: Proof-of-Work  
-3: Persistence and CLI  
-4: Transactions 1  
-5: Addresses  
-6: Transactions 2  
-7: Network  
+- [x]1: Basic Prototype  
+- [x]2: Proof-of-Work  
+- []3: Persistence and CLI  
+- []4: Transactions 1  
+- []5: Addresses  
+- []6: Transactions 2  
+- []7: Network  
   
 Phase - II  
   
