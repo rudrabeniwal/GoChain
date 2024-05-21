@@ -4,7 +4,7 @@
   
 ✅1: Basic Prototype  
 ✅2: Proof-of-Work  
-⬜️3: Persistence and CLI  
+✅3: Persistence and CLI  
 ⬜️4: Transactions 1  
 ⬜️5: Addresses  
 ⬜️6: Transactions 2  
