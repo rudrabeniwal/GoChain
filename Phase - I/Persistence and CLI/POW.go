@@ -51,10 +51,10 @@ func (pow *ProofOfWork) Run() (int, []byte) {
 	fmt.Printf("Mining the block containing \"%s\"\n", pow.block.Data)
 
 	/*In the loop we:
-	1.Prepare data.
-	2.Hash it with SHA-256.
-	3.Convert the hash to a big integer.
-	4.Compare the integer with the target. */
+	1. Prepare data.
+	2. Hash it with SHA-256.
+	3. Convert the hash to a big integer.
+	4. Compare the integer with the target. */
 	for nonce < maxNonce {
 		data := pow.prepareData(nonce)
 		hash = sha256.Sum256(data)
